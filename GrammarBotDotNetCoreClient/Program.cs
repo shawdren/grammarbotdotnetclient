@@ -25,7 +25,6 @@ namespace GrammarBotDotNetCoreClient
             {
                 Console.WriteLine(grammar.Message);
             }
-          
         }
     }
 }
