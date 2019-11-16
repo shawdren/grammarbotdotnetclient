@@ -3,3 +3,6 @@
 ################################################################################
 
 /GrammarBotClient/bin/Debug/netstandard2.0
+/GrammarBotClient/obj
+/GrammarBotDotNetCoreClient/bin/Debug/netcoreapp3.0
+/GrammarBotDotNetCoreClient/obj
