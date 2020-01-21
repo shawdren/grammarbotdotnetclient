@@ -8,7 +8,7 @@ Please refer to the official docs at [grammarbot.io/quickstart](https://www.gram
 
 ## Dev Environment
 1. VS2019
-2. Notcore 3.0.100
+2. Dotnetcore 3.0.100
 
 ## Installation
 
